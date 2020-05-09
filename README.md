@@ -8,3 +8,8 @@ This application allows users to input the Burger they want to eat. Once users c
 
 The application can be forked or cloned from GITHUB. The app is luanched in Heroku and can be opened with the following URL: https://eatin-burgers.herokuapp.com/
 
+
+**Video Walk-Through** 
+
+The following link will provide a walk-through of how the app works:
+https://gitduck.com/watch/5eb721bf6861583080756764
