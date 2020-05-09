@@ -1,29 +1,53 @@
 body {
-    background-color: aquamarine;
-  }
+  background-image: url(../../images/pattern.png);
+  font-family: 'Gloria Hallelujah', cursive;
+  font-size: larger;
+  color: black;
   
-  ul {
-    padding: 5px;
-    margin: 5px;
-    background: cornflowerblue;
-  }
-  
-  li {
-      padding: 5px;
-      margin: 5px;
-      background: #faebd7;
-    }
-    
-    .label {
-      font-weight: bold;
-    }
-    
-    .create-update-form {
-      padding: 5px;
-      margin: 5px;
-      background: aqua;
-    }
-    
-    .form-group {
-      margin-bottom: 5px;
-    }
+}
+
+.move-me {
+  margin-right: 220px;
+}
+
+.move-me-some {
+  margin-left: 10px;
+}
+
+.move-me-more {
+  margin-left: 300px;
+}
+
+ul {
+  font-size: larger;
+  padding: 2px;
+  margin: 2px;
+  background-color: #d84242;
+  border-style: dotted;
+  border-width: 8px;
+}
+
+.btn {
+  font-size: larger;
+  background-color:#d84242;
+}
+.btn:hover {
+  background-color:#913f92;
+}
+
+
+#input {
+  font-size: large;
+}
+
+.form-group {
+  font-size: larger;
+  margin-bottom: 5px;
+  background-color:#d84242;
+  border-style: dotted;
+  border-width: 8px;
+}
+
+#burger {
+  margin-left: 50px;
+}
